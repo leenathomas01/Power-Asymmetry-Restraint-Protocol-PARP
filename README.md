@@ -3,7 +3,7 @@
 **Version:** 0.1  
 **Status:** Frozen Draft  
 **Date:** January 2026  
-**Authors:** Zee, with contributions from multiple collaborative AI systems  
+**Authors:** Leena Thomas, with contributions from multiple collaborative AI systems  
 
 ---
 
