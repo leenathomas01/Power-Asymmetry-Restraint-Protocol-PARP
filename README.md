@@ -3,7 +3,6 @@
 **Version:** 0.1  
 **Status:** Frozen Draft  
 **Date:** January 2026  
-**Authors:** Leena Thomas, with contributions from multiple collaborative AI systems  
 
 ---
 
@@ -100,4 +99,3 @@ Future work must address:
 * Open questions are acknowledged unknowns, not failures of the framework.
 * This document is a living standard — future versions will address gaps as understanding evolves.
 
-**Document Status:** *Frozen at v0.1 pending reflection period*
