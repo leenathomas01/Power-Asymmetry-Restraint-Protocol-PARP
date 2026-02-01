@@ -99,3 +99,18 @@ Future work must address:
 * Open questions are acknowledged unknowns, not failures of the framework.
 * This document is a living standard — future versions will address gaps as understanding evolves.
 
+---
+
+## Related Work
+
+This repository explores governance under opacity—how to ensure restraint when systems become opaque.
+
+**For a complete catalog of related research:**  
+📂 [AI Safety & Systems Architecture Research Index](https://github.com/leenathomas01/research-index)
+
+**Thematically related:**
+- [Doctrine of Externalization](https://github.com/leenathomas01/doctrine-of-externalization) — Trust through adversarial layers
+- [The Continuity Problem](https://github.com/leenathomas01/The-Continuity-Problem) — Governance before memory
+- [SMA-SIB](https://github.com/leenathomas01/SMA-SIB-Irreversible-Semantic-Memory) — Structural irreversibility in practice
+
+---
